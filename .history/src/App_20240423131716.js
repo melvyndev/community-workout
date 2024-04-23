@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
 
-      <Session appId="tG0jGkE3" userId="sample_user_alice">
+      <Session appId="tG0jGkE3" userId="sample_user_alisce">
 
       <Chatbox
   conversationId="sample_group_chat"
